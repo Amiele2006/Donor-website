@@ -1,36 +1,36 @@
 @font-face {
     font-family: 'Inter';
-    src: url("../assets/fonts/Inter-Regular.ttf");
+    src: url("/fonts/Inter-Regular.ttf") format('ttf');
 }
 
 @font-face {
     font-family:'Anonymous-Pro';
-    src: url("/assets/fonts/AnonymousPro-Regular.ttf");
+    src: url("/fonts/AnonymousPro-Regular.ttf") format('ttf');
 }
 
 @font-face {
     font-family:'Inika';
-    src: url("../assets/fonts/Inika-Bold.ttf");
+    src: url("/fonts/Inika-Bold.ttf") format('ttf');
 }
 
 @font-face {
     font-family:'Inika-Regular';
-    src: url("../assets/fonts/Inika-Regular.ttf");
+    src: url("/fonts/Inika-Regular.ttf") format('ttf');
 }
 
 @font-face {
     font-family:'Roboto';
-    src:url("/assets/fonts/Roboto-Light.ttf");
+    src:url("/fonts/Roboto-Light.ttf") format('ttf');
 }
 
 @font-face {
     font-family: 'Inter-ExtraBold';
-    src:url("../assets/fonts/Inter-ExtraBold.ttf");
+    src:url("/fonts/Inter-ExtraBold.ttf") format('ttf');
 }
 
 @font-face {
     font-family: 'IBM-Plex-mono';
-    src: url("../assets/fonts/IBMPlexMono-Regular.ttf");
+    src: url("/fonts/IBMPlexMono-Regular.ttf") format('ttf');
 }
 
 body{
