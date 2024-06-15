@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Inter';
-    src: url("/assets/fonts/Inter-Regular.ttf");
+    src: url("../assets/fonts/Inter-Regular.ttf");
 }
 
 @font-face {
@@ -10,12 +10,12 @@
 
 @font-face {
     font-family:'Inika';
-    src: url("/assets/fonts/Inika-Bold.ttf");
+    src: url("../assets/fonts/Inika-Bold.ttf");
 }
 
 @font-face {
     font-family:'Inika-Regular';
-    src: url("/assets/fonts/Inika-Regular.ttf");
+    src: url("../assets/fonts/Inika-Regular.ttf");
 }
 
 @font-face {
@@ -25,12 +25,12 @@
 
 @font-face {
     font-family: 'Inter-ExtraBold';
-    src:url("/assets/fonts/Inter-ExtraBold.ttf");
+    src:url("../assets/fonts/Inter-ExtraBold.ttf");
 }
 
 @font-face {
     font-family: 'IBM-Plex-mono';
-    src: url("/assets/fonts/IBMPlexMono-Regular.ttf");
+    src: url("../assets/fonts/IBMPlexMono-Regular.ttf");
 }
 
 body{
