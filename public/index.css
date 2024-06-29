@@ -84,6 +84,7 @@ nav ul {
     color:black;
     font-size:1.3rem;
     font-family: 'Inter', sans-serif;
+    font-weight: 700;
     font-weight: 6;
 }
 
@@ -124,7 +125,8 @@ nav ul {
     color: white;
     background-color: rgb(255,29,29);
     border-radius:28px;
-    font-family:'Anonymous-Pro',monospace;
+    font-family:'Anonymous-Pro',sans-serif;
+    font-weight: 400;
     border:none;
     width:181px;
     height:41px;
@@ -487,6 +489,7 @@ footer{
   top:32px;
   left:256px;
   font-family: 'Inika',sans-serif;
+  font-weight:800;
   color: rgb(255,255,255);
 }
 
